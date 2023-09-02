@@ -62,7 +62,7 @@ flutter:
     - assets/chip.png
     - assets/mcard.png
     - assets/nfc.png
-    - assets/paypal.png
+    - assets/bank_logo.png
     - assets/logo.png
 
   # An image asset can refer to one or more resolution-specific "variants", see

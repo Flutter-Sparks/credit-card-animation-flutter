@@ -36,7 +36,7 @@ class _CreditCardFrontState extends State<CreditCardFront> {
           Row(
             children: [
               const Image(
-                image: AssetImage('assets/paypal.png'),
+                image: AssetImage('assets/bank_logo.png'),
                 height: 20,
               ),
               Text(
